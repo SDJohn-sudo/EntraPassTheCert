@@ -160,6 +160,11 @@ $ python3 entraptc.py rdp --username globaladmin@***.onmicrosoft.com --password 
 - The target machine should be Entra joinned machine, not Hybrid Entra joinned or Entra registered
 - Tested Windows 11/10 machine but not Windows server
 
+## Disclaimer
+
+This project is provided **for educational and research purposes only**.  
+It is intended to help security professionals, researchers, and students understand potential attack vectors and improve defensive measures.
+
 ## Reference
 
 https://medium.com/@mor2464/azure-ad-pass-the-certificate-d0c5de624597
