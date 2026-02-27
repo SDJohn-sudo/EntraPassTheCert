@@ -18,7 +18,7 @@ from cryptography.hazmat.backends import default_backend
 from cryptography.hazmat.primitives.kdf.kbkdf import CounterLocation, KBKDFHMAC, Mode
 from impacket.examples.smbclient import MiniImpacketShell
 from modules.smb.smbconnection import SMBConnection
-from modules.rdp.rdp import RDP
+#from modules.rdp.rdp import RDP
 from modules.winrm import WinRM
 from modules.rpc import RPC
 
